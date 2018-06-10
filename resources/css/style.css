@@ -1,3 +1,7 @@
+html{
+  text-align:center;
+  background-color:black;
+}
 .header{
   font-family:Verdana;
   font-weight:normal;
@@ -5,7 +9,24 @@
   color:White;
   text-align:center;
 }
+.header2{
+  font-family:Verdana;
+  font-weight:300;
+  font-size: 42px;
+  color:white;
+}
 .dlink{
   color:Aquamarine;
   font-size: 16px;
+  font-family:Verdana;
+}
+.subtitle{
+  color:gray;
+  font-size:21px;
+  font-family:Verdana;
+}
+.copyright{
+  text-align:right;
+  color:gray;
+  font-family:Verdana;
 }
